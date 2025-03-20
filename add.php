@@ -30,26 +30,26 @@
      .addBTN {
         background: purple;
         position: relative;
-        border-radius: 15px;
+        border-radius: 20px;
         border:solid pink;
         top: 10px;
         display: grid;
         justify-content: center;
         place-items: center;
         height: 400px;
-        width: 35%;
+        width: 40%;
      }
      form{
         display: grid;
      }
      label{
         color: white;
-        font-weight: 5px bold;
+        font-weight: 4px bold;
         
      }
      input{
         background-color: transparent;
-        border: solid 2px white;
+        border: solid 3px white;
         border-radius: 10px;
         height: 35px;
         color: purple;
